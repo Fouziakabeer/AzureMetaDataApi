@@ -1,0 +1,15 @@
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/bin/Debug/net8.0/AzureMetadataApi.Application.deps.json
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/bin/Debug/net8.0/AzureMetadataApi.Application.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/bin/Debug/net8.0/AzureMetadataApi.Application.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/bin/Debug/net8.0/AzureMetadataApi.Domain.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/bin/Debug/net8.0/AzureMetadataApi.Domain.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMetadataApi.Application.csproj.AssemblyReference.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMetadataApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMetadataApi.Application.AssemblyInfoInputs.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMetadataApi.Application.AssemblyInfo.cs
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMetadataApi.Application.csproj.CoreCompileInputs.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMet.E5A63E11.Up2Date
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMetadataApi.Application.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/refint/AzureMetadataApi.Application.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/AzureMetadataApi.Application.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Application/obj/Debug/net8.0/ref/AzureMetadataApi.Application.dll

@@ -1,0 +1,11 @@
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/bin/Debug/net8.0/AzureMetadataApi.Domain.deps.json
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/bin/Debug/net8.0/AzureMetadataApi.Domain.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/bin/Debug/net8.0/AzureMetadataApi.Domain.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/AzureMetadataApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/AzureMetadataApi.Domain.AssemblyInfoInputs.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/AzureMetadataApi.Domain.AssemblyInfo.cs
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/AzureMetadataApi.Domain.csproj.CoreCompileInputs.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/AzureMetadataApi.Domain.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/refint/AzureMetadataApi.Domain.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/AzureMetadataApi.Domain.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Domain/obj/Debug/net8.0/ref/AzureMetadataApi.Domain.dll

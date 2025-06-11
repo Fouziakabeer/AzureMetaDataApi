@@ -1,0 +1,17 @@
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/bin/Debug/net8.0/AzureMetadataApi.Infrastructure.deps.json
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/bin/Debug/net8.0/AzureMetadataApi.Infrastructure.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/bin/Debug/net8.0/AzureMetadataApi.Infrastructure.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/bin/Debug/net8.0/AzureMetadataApi.Application.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/bin/Debug/net8.0/AzureMetadataApi.Domain.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/bin/Debug/net8.0/AzureMetadataApi.Application.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/bin/Debug/net8.0/AzureMetadataApi.Domain.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMetadataApi.Infrastructure.csproj.AssemblyReference.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMetadataApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMetadataApi.Infrastructure.AssemblyInfoInputs.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMetadataApi.Infrastructure.AssemblyInfo.cs
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMetadataApi.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMet.ABACFDFF.Up2Date
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMetadataApi.Infrastructure.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/refint/AzureMetadataApi.Infrastructure.dll
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/AzureMetadataApi.Infrastructure.pdb
+/Users/babushaabdulrahman/Downloads/AzureMetadataApi/AzureMetadataApi.Infrastructure/obj/Debug/net8.0/ref/AzureMetadataApi.Infrastructure.dll

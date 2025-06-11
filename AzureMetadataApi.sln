@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureMetadataApi.Application", "AzureMetadataApi.Application\AzureMetadataApi.Application.csproj", "{B26589F6-7890-470A-A80B-02AB88413D18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureMetadataApi.Infrastructure", "AzureMetadataApi.Infrastructure\AzureMetadataApi.Infrastructure.csproj", "{53B55395-7695-4953-90E2-D649D939BEF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureMetadataApi.Web", "AzureMetadataApi.Web\AzureMetadataApi.Web.csproj", "{A380B2B4-B207-4991-BBDF-6D1FBC00B907}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureMetadataApi.Domain", "AzureMetadataApi.Domain\AzureMetadataApi.Domain.csproj", "{ED30F5D2-80E7-425E-9C77-075B1224895A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26589F6-7890-470A-A80B-02AB88413D18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26589F6-7890-470A-A80B-02AB88413D18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26589F6-7890-470A-A80B-02AB88413D18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26589F6-7890-470A-A80B-02AB88413D18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53B55395-7695-4953-90E2-D649D939BEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53B55395-7695-4953-90E2-D649D939BEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53B55395-7695-4953-90E2-D649D939BEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53B55395-7695-4953-90E2-D649D939BEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A380B2B4-B207-4991-BBDF-6D1FBC00B907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A380B2B4-B207-4991-BBDF-6D1FBC00B907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A380B2B4-B207-4991-BBDF-6D1FBC00B907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A380B2B4-B207-4991-BBDF-6D1FBC00B907}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED30F5D2-80E7-425E-9C77-075B1224895A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED30F5D2-80E7-425E-9C77-075B1224895A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED30F5D2-80E7-425E-9C77-075B1224895A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED30F5D2-80E7-425E-9C77-075B1224895A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E2F739E-81BA-4581-B45D-627D5E1C1946}
+	EndGlobalSection
+EndGlobal
