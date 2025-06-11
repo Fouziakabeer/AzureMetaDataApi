@@ -5,7 +5,7 @@ This project demonstrates clean architecture with separation of concerns and inc
 
 ---
 
-## 🌐 Features
+## Features
 
 - Fetch all metadata from Azure IMDS
 - Fetch specific metadata using a key path
@@ -16,7 +16,7 @@ This project demonstrates clean architecture with separation of concerns and inc
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 AzureMetadataApi/
@@ -31,7 +31,7 @@ AzureMetadataApi/
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 
@@ -65,7 +65,7 @@ Visit [https://localhost:7210/swagger](https://localhost:5001/swagger) (or check
 
 ---
 
-## 🔪 Running Tests
+##  Running Tests
 
 ```bash
 cd AzureMetadataApi.Tests
@@ -76,7 +76,7 @@ Make sure packages like `Moq`, `Microsoft.Extensions.Logging.Abstractions`, etc.
 
 ---
 
-## 🔑 API Endpoints
+##  API Endpoints
 
 | Method | Route                            | Description                         |
 |--------|----------------------------------|-------------------------------------|
@@ -85,7 +85,7 @@ Make sure packages like `Moq`, `Microsoft.Extensions.Logging.Abstractions`, etc.
 
 ---
 
-## ✅ Example Usage
+##  Example Usage
 
 ```http
 GET /api/metadata/by-path?keyPath=compute/location
@@ -101,7 +101,7 @@ Returns:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 - .NET 8 SDK
 - Microsoft.Extensions.Http.Polly
@@ -111,7 +111,7 @@ Returns:
 
 ---
 
-## 🙌 Author
+##  Author
 
 **Fouzia Kabeer**  
 Email: [fouziakabeer@gmail.com](mailto:fouziakabeer@gmail.com)
